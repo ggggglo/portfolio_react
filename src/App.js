@@ -16,7 +16,6 @@ function App() {
       <Cv />
       <Projects />
       <VideoGames />
-
     </div>
   );
 }

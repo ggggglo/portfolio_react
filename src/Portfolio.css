@@ -1,3 +1,237 @@
-.App{
-  
+/* Attributes that will take all over the page */
+*{
+    background-color: #f5e5ec;
+    font-family: bc-sklonar, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.header{
+    display: flex;
+}
+
+.contact{
+    display: flex;
+    flex-wrap: wrap;
+    display: block;
+    font-size: 10px;
+    gap: 10px;
+}
+
+/* Funny message that shows when you hover over 03/10/94 */
+#bday:hover::after{
+    content: "like Chuck Norris!";
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+}
+
+.about{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    gap: 50px;
+}
+
+/* From line 39 to line 49 it manages that text position of the about section */
+#textcenter{
+    text-align: center;
+}
+
+#textright{
+    text-align: right;
+}
+
+.textleft{
+    margin-left: 15px;
+}
+
+/* From line 52 to line 62 it maganes the images that appear in the about section when you hover over them */
+#glo:hover{
+    content: url(../public/images/glo-funny.jpg);
+}
+
+#kylo:hover{
+    content: url(../public/images/kylo-funny.jpg);
+}
+
+#kylo2:hover{
+    content: url(../public/images/kylo-funny.jpg);
+}
+
+.about img {
+    width: 182px;
+}
+
+.about-text {
+    font-size: 12px;
+}
+
+.menu {
+   text-align: center;
+   margin-top: 80px;
+}
+
+.exp {
+    margin-top: 80px;
+}
+
+.links{
+    line-height: 2.5;
+}
+
+#projects {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#games {
+    margin-top: 50px;
+}
+
+.reviews{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 80px;
+    margin-left: 20px;
+}
+
+/* Size for gifs in video game reviews*/
+#games img{
+    max-width: 400px;
+}
+
+/* Line 104 to 138 manages hover effects over website links to show pictures*/
+#bored:hover::after{
+    content: url(../public/images/bored.png);
+    display: block;
+    margin-left: 10px;
+}
+
+#quiz:hover::after{
+    content: url(../public/images/quiz.png);
+    display: block;
+    margin-left: 10px;
+}
+
+#weather:hover::after{
+    content: url(../public/images/weather.png);
+    display: block;
+    margin-left: 10px;
+}
+
+#organizer:hover::after{
+    content: url(../public/images/organizer.png);
+    display: block;
+    margin-left: 10px;
+}
+
+
+#eva:hover::after{
+    content: url(../public/images/eva.png);
+    display: block;
+    margin-left: 10px;
+}
+
+#rebrand:hover::after{
+    content: url(../public/images/rebrand.png);
+    display: block;
+    margin-left: 10px;
+}
+
+#omina:hover::after{
+    content: url(../public/images/omina.png);
+    display: block;
+    margin-left: 10px;
+}
+
+#huella:hover:after{
+    content: url(../public/images/huella.png);
+    display: block;
+    margin-left: 10px;
+}
+
+#somabacu:hover:after{
+    content: url(../public/images/somabacu.png);
+    display: block;
+    margin-left: 10px;
+}
+
+#ecostaff:hover:after{
+    content: url(../public/images/ecostaff.png);
+    display: block;
+    margin-left: 10px;
+}
+
+#trueque:hover:after{
+    content: url(../public/images/trueque.png);
+    display: block;
+    margin-left: 10px;
+}
+
+#techblog:hover:after{
+    content: url(../public/images/techblog.png);
+    display: block;
+    margin-left: 10px;
+}
+
+/* Hiding Kylo's picture that only is visible in bigger screens*/
+#kylo2 {
+    display: none;
+}
+
+/* Media query to make design responsive for bigger screens*/
+@media screen and (min-width: 992px){
+    .header{
+        margin-left: 80px;
+    }
+    
+    .contact{
+        display: inline;
+        margin-left: 180px;
+        font-size: 15px;
+    
+    }
+
+    #kylo{
+        display:none;
+    }
+
+    #kylo2{
+        display: block;
+        min-width: 400px;
+        margin-top: 30px;
+    }
+
+    #glo{
+        min-width: 400px;
+        margin-left: 80px;
+        margin-top: 30px;
+    }
+
+    .about-text{
+        font-size: 15px;
+        margin-top: 30px;
+    }
+
+    .textleft{
+        margin-left: 0px;
+    }
+
+    .menu{
+        margin-left: -80px;
+    }
+    main{
+        font-size: 13px;
+        margin-left: 80px;
+    }
+
+    footer{
+        text-align: center;
+        margin-top: 70px;
+    }
 }
