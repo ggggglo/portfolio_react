@@ -50,15 +50,15 @@
 
 /* From line 52 to line 62 it maganes the images that appear in the about section when you hover over them */
 #glo:hover{
-    content: url(../public/images/glo-funny.jpg);
+    content: url(./images/glo-funny.jpg);
 }
 
 #kylo:hover{
-    content: url(../public/images/kylo-funny.jpg);
+    content: url(./images/kylo-funny.jpg);
 }
 
 #kylo2:hover{
-    content: url(../public/images/kylo-funny.jpg);
+    content: url(./images/kylo-funny.jpg);
 }
 
 .about img {
