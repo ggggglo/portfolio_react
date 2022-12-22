@@ -12,20 +12,20 @@ export default function Intro (){
         </section>
 
         <section className="about-text">
-        <p id="textcenter">  This is me, Glo, and this is Kylo </p>
+        <p id="textcenter"> 👈🏻 This is me, Glo, and this is Kylo 👉🏻</p>
         <br/>
-        <p id="textright">Kylo is a 2yo bear coat Shar Pei </p>
+        <p id="textright">Kylo is a 2yo bear coat Shar Pei 👉🏻 </p>
         <br/>
-        <p className="textleft"> I am from San José, Costa Rica.</p>
-        <p className="textleft">I went to school for production design.</p>
-        <p className="textleft">Worked in different theaters and</p>
-        <p className="textleft">very cool places like Universal and Disney.</p>
-        <p className="textleft">As of the last couple of years I have been</p>
-        <p className="textleft">more involved in administrative roles.</p>
-        <p className="textleft">This year I enrolled in the UT Coding Bootcamp</p>
-        <p className="textleft">and will be working towards a career in coding.</p>
+        <p className="textleft">👈🏻 I am from San José, Costa Rica.</p>
+        <p className="textleft">👈🏻 I went to school for production design.</p>
+        <p className="textleft">👈🏻 Worked in different theaters and</p>
+        <p className="textleft">👈🏻 very cool places like Universal and Disney.</p>
+        <p className="textleft">👈🏻 As of the last couple of years I have been</p>
+        <p className="textleft">👈🏻 more involved in administrative roles.</p>
+        <p className="textleft">👈🏻 This year I enrolled in the UT Coding Bootcamp</p>
+        <p className="textleft">👈🏻 and will be working towards a career in coding.</p>
         <br/>    
-        <p id="textright"> Kylo hasn't done much, but he's great</p>    
+        <p id="textright"> Kylo hasn't done much, but he's great 👉🏻 </p>    
         </section>
 
         <section>
