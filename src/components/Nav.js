@@ -6,6 +6,7 @@ export default function Nav (){
         <div>
             <span class="header">
             <h1>Glo's Portfolio</h1>
+            <h2>Test</h2>
             </span>
             <span>
             <p class="contact">
