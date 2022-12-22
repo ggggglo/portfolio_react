@@ -1,12 +1,14 @@
 import '../Portfolio.css'
+import gloPortrait from '../images/glo-portrait.jpg'
+import kylo from '../images/kylo.jpg'
 
 export default function Intro (){
     return (
         <div className="about"> 
         <section>
 
-        <img id="glo" src="../../public/images/glo-portrait.jpg" alt=" Glo, white, 28 years old, black hair wearing leather jacket"/>
-        <img id= "kylo" src="../public/images/kylo.jpg" alt="Kylo, a black, long haired, sharpei"/>
+        <img id="glo" src={gloPortrait} alt=" Glo, white, 28 years old, black hair wearing leather jacket"/>
+        <img id= "kylo" src={kylo} alt="Kylo, a black, long haired, sharpei"/>
         </section>
 
         <section className="about-text">
@@ -27,7 +29,7 @@ export default function Intro (){
         </section>
 
         <section>
-        <img id= "kylo2" src="../public/images/kylo.jpg" alt="Kylo, a black, long haired, sharpei"/>
+        <img id= "kylo2" src={kylo} alt="Kylo, a black, long haired, sharpei"/>
         </section>
 </div>
     
