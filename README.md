@@ -13,6 +13,6 @@ I have replicated my orginal portfolio with React in order to showcase my unders
 - GitHub repo: `https://github.com/ggggglo/portfolio_react`
 
 # Website Images
-[!1](./src/images/1.png)
-[!2](./src/images/2.png)
-[!3](./src/images/3.png)
+![Site image 1](./src/images/1.png)
+![Site image 2](./src/images/2.png)
+![Site image 3](./src/images/3.png)
