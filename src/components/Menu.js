@@ -4,9 +4,9 @@ export default function Menu (){
     return (
         <div>
             <section className="menu">
-            <h2>CV</h2>
-            <h2>PROJECTS</h2>
-            <h2>VIDEO GAME REVIEWS</h2>
+            <h4>CV</h4>
+            <h4>PROJECTS</h4>
+            <h4>VIDEO GAME REVIEWS</h4>
             </section>
         </div>
     )

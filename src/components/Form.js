@@ -15,7 +15,7 @@ const Form = () => {
   }
   return (
     <div className="container mt-5">
-      <h2 className="mb-3">Contact me!</h2>
+      <h3 className="mb-3">Contact me!</h3>
       <form onSubmit={onSubmit}>
         <div className="mb-3">
           <label className="form-label" htmlFor="name">

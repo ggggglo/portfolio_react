@@ -4,7 +4,7 @@ export default function Projects (){
     return (
         <div>
             <section id="projects" className="margin">
-            <h2 >Projects</h2>
+            <h3 >Projects</h3>
             <p>These are websites I've designed and created from scratch (HTML, CSS, JS) for UT Bootcamp</p>
                 <ul className="links">
                     <li id="trueque"><a href="https://the-sequelizers.herokuapp.com/" rel="noreferrer">Trueque</a></li>

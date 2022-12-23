@@ -5,7 +5,7 @@ export default function Nav (){
     return (
         <div>
             <span className="header">
-            <h1>Glo's Portfolio</h1>
+            <h2>Glo's Portfolio</h2>
             </span>
             <span>
             <p className="contact">
