@@ -9,7 +9,7 @@ I have replicated my orginal portfolio with React in order to showcase my unders
 - If your local host shows another application, open an incognito window and type `http://localhost:3000/`
 
 # Links
-- Deployed application: 
+- Deployed application: `https://blooming-plains-13551.herokuapp.com/`
 - GitHub repo: `https://github.com/ggggglo/portfolio_react`
 
 # Website Images
