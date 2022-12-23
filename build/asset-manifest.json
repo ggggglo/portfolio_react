@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ggggglo/portfolio_react/static/css/main.dcfa5094.css",
+    "main.js": "/ggggglo/portfolio_react/static/js/main.f8714173.js",
+    "static/media/fortnite.gif": "/ggggglo/portfolio_react/static/media/fortnite.40b3c6692523a9b3670e.gif",
+    "static/media/luigi.gif": "/ggggglo/portfolio_react/static/media/luigi.adb8f1deeb1ccfb24318.gif",
+    "static/media/rocketleague.gif": "/ggggglo/portfolio_react/static/media/rocketleague.d1dca7a78b615d7066ee.gif",
+    "static/media/kylo-funny.jpg": "/ggggglo/portfolio_react/static/media/kylo-funny.df1678bd99124ab6435f.jpg",
+    "static/media/zombies.gif": "/ggggglo/portfolio_react/static/media/zombies.ddac85adfee3f8f2d3a8.gif",
+    "static/media/glo-portrait.jpg": "/ggggglo/portfolio_react/static/media/glo-portrait.515df755d80ee47d583f.jpg",
+    "static/media/glo-funny.jpg": "/ggggglo/portfolio_react/static/media/glo-funny.7216dc3fa97a0a2df456.jpg",
+    "static/media/super-mario-64.gif": "/ggggglo/portfolio_react/static/media/super-mario-64.57163d0edf2f83ceffaf.gif",
+    "static/media/kylo.jpg": "/ggggglo/portfolio_react/static/media/kylo.8df6ff59b95fb4c449a9.jpg",
+    "static/media/CV_2022.pdf": "/ggggglo/portfolio_react/static/media/CV_2022.361c6bc0103c9fd5d9e9.pdf",
+    "static/media/lovers.gif": "/ggggglo/portfolio_react/static/media/lovers.f45d8ca6b8286d3eaf20.gif",
+    "static/media/omina.png": "/ggggglo/portfolio_react/static/media/omina.c765c5a4083583727c3f.png",
+    "static/media/huella.png": "/ggggglo/portfolio_react/static/media/huella.042d8314d9a78da5c361.png",
+    "static/media/somabacu.png": "/ggggglo/portfolio_react/static/media/somabacu.dfa980e4feefdaee5a2d.png",
+    "static/media/ecostaff.png": "/ggggglo/portfolio_react/static/media/ecostaff.6f943178680503f7b09e.png",
+    "static/media/rebrand.png": "/ggggglo/portfolio_react/static/media/rebrand.e73e0eeab57875e93cf5.png",
+    "static/media/bored.png": "/ggggglo/portfolio_react/static/media/bored.9c593469942277d54a1b.png",
+    "static/media/eva.png": "/ggggglo/portfolio_react/static/media/eva.997bc168ea1e877b3469.png",
+    "static/media/weather.png": "/ggggglo/portfolio_react/static/media/weather.7e1144009fffe01e877d.png",
+    "static/media/trueque.png": "/ggggglo/portfolio_react/static/media/trueque.855152387f405f2926da.png",
+    "static/media/techblog.png": "/ggggglo/portfolio_react/static/media/techblog.c2fc0164d8301de76c3f.png",
+    "static/media/organizer.png": "/ggggglo/portfolio_react/static/media/organizer.97a6206360ca1cb75687.png",
+    "static/media/quiz.png": "/ggggglo/portfolio_react/static/media/quiz.db61b60185897e94dee4.png",
+    "index.html": "/ggggglo/portfolio_react/index.html",
+    "main.dcfa5094.css.map": "/ggggglo/portfolio_react/static/css/main.dcfa5094.css.map",
+    "main.f8714173.js.map": "/ggggglo/portfolio_react/static/js/main.f8714173.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcfa5094.css",
+    "static/js/main.f8714173.js"
+  ]
+}
