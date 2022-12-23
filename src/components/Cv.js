@@ -5,9 +5,9 @@ export default function Cv (){
     return (
         <div>
             <section id="cv">
-            <h2>CV</h2>
-            <p>Here is a link to my CV</p>
-            <a href={cv} rel="noreferrer">Glo's 2022 CV</a>
+            <h2 className="margin">CV</h2>
+            <p className="margin">Here is a link to my CV</p>
+            <a href={cv} rel="noreferrer" className="margin">Glo's 2022 CV</a>
             </section>
         </div>
     )

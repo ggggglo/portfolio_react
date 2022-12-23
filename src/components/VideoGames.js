@@ -8,7 +8,7 @@ import zombies from '../images/zombies.gif'
 
 export default function VideoGames (){
     return (
-        <div id="games">
+        <div id="games" className="margin">
             <h2>Video Game Reviews</h2>
             <p>Love some, love some not</p>
             <div className="reviews">

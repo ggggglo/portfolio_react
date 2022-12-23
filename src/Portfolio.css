@@ -10,14 +10,6 @@
     display: flex;
 }
 
-.contact{
-    display: flex;
-    flex-wrap: wrap;
-    display: block;
-    font-size: 10px;
-    gap: 10px;
-}
-
 /* Funny message that shows when you hover over 03/10/94 */
 #bday:hover::after{
     content: "like Chuck Norris!";
@@ -234,4 +226,8 @@
         text-align: center;
         margin-top: 70px;
     }
+}
+
+.margin {
+    padding-left: 70px;
 }

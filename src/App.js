@@ -4,7 +4,10 @@ import Menu from './components/Menu'
 import Cv from './components/Cv'
 import Projects from './components/Projects'
 import VideoGames from './components/VideoGames'
+import Form from './components/Form'
 import Footer from './components/Footer'
+
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 import './Portfolio.css';
 
@@ -17,6 +20,7 @@ function App() {
       <Cv />
       <Projects />
       <VideoGames />
+      <Form />
       <Footer />
     </div>
   );
